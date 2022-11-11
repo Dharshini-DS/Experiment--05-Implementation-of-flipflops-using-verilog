@@ -168,22 +168,29 @@ endmodule
 ```
 ## RTL LOGIC FOR FLIPFLOPS:
 ### SR FLIP FLOP:
+![de1](https://user-images.githubusercontent.com/93427345/201350304-6e50761a-f11f-4bd9-a335-6a25633794c3.png)
 
 ### D FLIP FLOP:
+![de2](https://user-images.githubusercontent.com/93427345/201350334-9c51688e-7e82-4d01-ae29-4800913fa54d.png)
 
 ### JK FLIP FLOP:
+![de3](https://user-images.githubusercontent.com/93427345/201350361-9b9db72f-f65b-4ca0-a342-52b00b187e19.png)
 
 ### T FLIP FLOP:
-
+![de4](https://user-images.githubusercontent.com/93427345/201350402-c1c4f4e4-0083-426f-9110-4ff84beff29a.png)
 
 ## TIMING DIGRAMS FOR FLIP FLOPS 
 ### SR FLIP FLOP:
+![de5](https://user-images.githubusercontent.com/93427345/201350442-3a84a73d-faf0-4ef9-abd7-aaaf5226595e.png)
 
 ### D FLIP FLOP:
+![de6](https://user-images.githubusercontent.com/93427345/201350517-aaeda77a-a58b-4284-821e-202b46671790.png)
 
 ### JK FLIP FLOP:
+![de7](https://user-images.githubusercontent.com/93427345/201350552-cf0f77c9-592e-4eb0-b767-695311ffe4ae.png)
 
 ### T FLIP FLOP:
+![de8](https://user-images.githubusercontent.com/93427345/201350583-374bcb81-7d5f-4b10-ba0a-bdae06a51d91.png)
 
 ## RESULTS 
 All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
